@@ -233,7 +233,7 @@ def main():
                     f"""
                     <div class="result-box">
                         <h2>💵 PREDICTED SALARY</h2>
-                        <h2>${prediction:,.2f}</h2>
+                        <h2>₹{prediction:,.2f}/month</h2>
                     </div>
                     """,
                     unsafe_allow_html=True
