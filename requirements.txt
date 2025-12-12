@@ -1,4 +1,4 @@
 ﻿joblib==1.5.2
-streamlit==1.52.1
 scikit-learn==1.7.2
+
 
